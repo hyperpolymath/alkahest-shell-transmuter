@@ -5,13 +5,13 @@ blank_issues_enabled: false
 
 contact_links:
   - name: Security Vulnerability
-    url: https://github.com/hyperpolymath/template-repo/security/advisories/new
+    url: https://github.com/hyperpolymath/alkahest-shell-transmuter/security/advisories/new
     about: Report security vulnerabilities privately through GitHub Security Advisories
 
   - name: Discussions
-    url: https://github.com/hyperpolymath/template-repo/discussions
+    url: https://github.com/hyperpolymath/alkahest-shell-transmuter/discussions
     about: Ask questions and discuss ideas in GitHub Discussions
 
   - name: Documentation
-    url: https://github.com/hyperpolymath/template-repo/wiki
+    url: https://github.com/hyperpolymath/alkahest-shell-transmuter/wiki
     about: Check the wiki for documentation and guides
